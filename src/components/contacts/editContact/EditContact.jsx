@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import {Link, useNavigate, useParams} from "react-router-dom";
-import userImg from "../../../Images/userImg.png";
+import userImg from "../../../Images/team.png";
 import { useDispatch, useSelector } from "react-redux";
 import { constactSelector, updateUser } from "../../../redux/ContextReducer";
 

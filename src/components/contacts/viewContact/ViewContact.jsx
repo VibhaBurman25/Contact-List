@@ -1,6 +1,6 @@
 import React from "react";
 import { Link, useParams } from "react-router-dom";
-import userImg from "../../../Images/userImg.png";
+import userImg from "../../../Images/team.png";
 import { useSelector } from "react-redux";
 import { constactSelector } from "../../../redux/ContextReducer";
 

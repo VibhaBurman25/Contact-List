@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import userImg from "../../../Images/userImg.png";
+import userImg from "../../../Images/team.png";
 import { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import {SearchContact, constactSelector, deleteContact, fetchStart, getContacts } from "../../../redux/ContextReducer";
