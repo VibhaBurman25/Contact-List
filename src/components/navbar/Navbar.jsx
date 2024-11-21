@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const Navbar = ()=>{
     return(
         <>
-           <nav className="navbar navbar-dark bg-dark navbar-expand-sm">
+           <nav className="navbar navbar-dark bg-pink navbar-expand-sm">
                 <div className="container">
                      <Link to={"/"} className="navbar-brand">
                         <i className="fa fa-mobile text-warning"/>&nbsp; Contact &nbsp; <span className="text-warning"> Manager</span>
